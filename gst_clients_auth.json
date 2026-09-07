@@ -1,0 +1,16 @@
+{
+    "martin": {
+        "username": "martin",
+        "password_hash": "f4a32ba123d52bc75fced280ffd34b7ad30d85be7d2077122ae6d3f3bb81bca1",
+        "salt": "65cf376cc031a9de0242b4adba8ef10e",
+        "display_name": "Martin D Almedia",
+        "gstin": "29AFYPD439K1ZU",
+        "email": "",
+        "phone": "",
+        "state": "Karnataka",
+        "folder": "GST_Clients\\martin",
+        "recovery_hash": "020e0d4ef7112448bbbd4104db19c2333eec83eb98deac404b6432559ad12a51",
+        "recovery_salt": "1952c7b9f4a6147049ba8905d88f76cf",
+        "created_on": "2026-09-07 10:13:31"
+    }
+}
